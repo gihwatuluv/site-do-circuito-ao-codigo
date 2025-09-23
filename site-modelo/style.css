@@ -366,4 +366,8 @@ div {
         font-size: 14px;
     }
 }
-
+    #minhafoto{
+        border-style: solid;
+        border-color: #354c2b;
+        border-radius: 300px;
+    }
